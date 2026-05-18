@@ -335,9 +335,9 @@ body {
 .ring-3 { width: 340px; height: 340px; border-color: rgba(36,36,36,0.6); animation: spinR 28s linear infinite; }
 
 .avatar-core {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border-radius: 90%;
   background: linear-gradient(135deg, #1a1a1a, #262626);
   border: 1px solid var(--c-accent-dim);
   display: flex;
