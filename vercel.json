@@ -4,14 +4,14 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/frontend/cosmic-portfolio.html"
+      "destination": "/frontend/index.html"
     },
     {
       "source": "/assets/:path*",
       "destination": "/frontend/assets/:path*"
     },
     {
-      "source": "/:file(cosmic.css|index.js|animations.js|cosmic-universe.js|avatar.png)",
+      "source": "/:file(cosmic.css|lucide-local.js|animations.js|cosmic-universe.js|avatar.png)",
       "destination": "/frontend/:file"
     }
   ]
