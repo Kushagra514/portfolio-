@@ -11,7 +11,7 @@
       "destination": "/frontend/assets/:path*"
     },
     {
-      "source": "/:file(index.css|animations.css|cosmic.css|index.js|animations.js|cosmic-universe.js|avatar.png)",
+      "source": "/:file(cosmic.css|index.js|animations.js|cosmic-universe.js|avatar.png)",
       "destination": "/frontend/:file"
     }
   ]
